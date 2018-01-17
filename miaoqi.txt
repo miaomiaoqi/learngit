@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ndadfasaodn
 sdmk
 =======
@@ -8,3 +7,5 @@ aaaa
 ksdl
 mkdlsf
 adnjfi
+update miaoqi001
+update miaoqi002
