@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ndadfasaodn
 sdmk
+=======
+ndaodn
+aaaa
+>>>>>>> 6e40e8008ecd7d709c62f903c65a401ebb69653c
 ksdl
 mkdlsf
